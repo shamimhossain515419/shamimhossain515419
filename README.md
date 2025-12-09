@@ -144,9 +144,9 @@
 
 <div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=alive1258&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=shamimhossain515419&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alive1258&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph)
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shamimhossain515419&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&custom_title=Contribution%20Graph)
 </div>
 
 ---
@@ -155,9 +155,9 @@
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alive1258&theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=shamimhossain515419theme=radical&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
   
-  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=alive1258&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
+  ![GitHub Contributors](https://github-contributor-stats.vercel.app/api?username=shamimhossain515419&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true)
 </div>
 
 ---
